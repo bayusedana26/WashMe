@@ -1,8 +1,3 @@
 # Backend Team
 
-```
-npm install bayu
-npm install fikri
-npm install alfian
-npm install dedie
-
+![alt text](https://cdn.discordapp.com/attachments/837302071812030504/849574223315730452/Wash_Me.jpg)
