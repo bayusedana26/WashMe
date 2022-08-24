@@ -1,0 +1,9 @@
+node_modules/
+.env.test
+.env copy.test
+.env.development
+.env.production
+coverage
+package-lock.json
+access.log
+helper
