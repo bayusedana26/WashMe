@@ -26,5 +26,5 @@ https://documenter.getpostman.com/view/15027153/TzRSgTCb
 ![alt text](https://cdn.discordapp.com/attachments/837302071812030504/849574223315730452/Wash_Me.jpg)
 
 # MidTrans
-![alt text](https://discord.com/channels/814710552545984513/837302071812030504/852913098338992148)
+![alt text]([https://discord.com/channels/814710552545984513/837302071812030504/852913098338992148](https://media.discordapp.net/attachments/837302071812030504/852913097941057566/Screen_Shot_2021-06-11_at_21.11.49.png?width=1676&height=1048))
 
